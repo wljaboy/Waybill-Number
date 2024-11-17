@@ -1,0 +1,8 @@
+PyQt6==6.6.1
+opencv-python==4.9.0.80
+numpy==1.26.4
+Pillow==10.2.0
+pyzbar==0.1.8
+pytesseract==0.3.10
+tencentcloud-sdk-python==3.0.1071
+pyinstaller 

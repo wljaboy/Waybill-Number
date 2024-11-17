@@ -1,0 +1,25 @@
+# -*- coding: utf-8 -*-
+1 VERSIONINFO
+FILEVERSION 1,3,0,0
+PRODUCTVERSION 1,3,0,0
+FILEOS 0x40004
+FILETYPE 0x1
+{
+    BLOCK "StringFileInfo"
+    {
+        BLOCK "080404B0"
+        {
+            VALUE "FileDescription", "识别运单号并以运单号重命名运单"
+            VALUE "ProductName", "回单整理器"
+            VALUE "ProductVersion", "1.3"
+            VALUE "FileVersion", "1.3"
+            VALUE "LegalCopyright", "版权所有 © 2024 永互物流"
+            VALUE "Comments", "邮箱：fgwljd@126.com"
+            VALUE "CompanyName", "永互物流"
+        }
+    }
+    BLOCK "VarFileInfo"
+    {
+        VALUE "Translation", 0x0804, 0x04B0
+    }
+} 
